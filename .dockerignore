@@ -1,0 +1,11 @@
+.git
+.gitignore
+.venv
+__pycache__/
+*.py[cod]
+
+# 敏感配置不进入构建上下文
+.env
+.env.*
+
+README.md
